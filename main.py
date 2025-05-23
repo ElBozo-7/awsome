@@ -44,6 +44,8 @@ round = input("press enter to continue: ")
 t.clear()
 screen.bgcolor('white')
 
+
+
 t.penup()
 t.goto(0,-100)
 t.pendown()
